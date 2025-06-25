@@ -17,12 +17,23 @@ This project uses Natural Language Processing (NLP) and Machine Learning techniq
 
 
 🛠️ Technologies Used
-
 Python
+
 scikit-learn
+
 nltk
+
 PyPDF2
+
 spellchecker
+
 bert-extractive-summarizer
-docx2txt
+
 PYQT5
+
+docx2txt
+
+
+
+
+
